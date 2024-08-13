@@ -1,6 +1,6 @@
 
 
-# Go router With BottomNavigation
+# Flutter Routing
 
 A brief description of the project.
 
@@ -24,9 +24,11 @@ lib/
 │   │   ├── no_transition_page.dart
 │   │   ├── setting_screen.dart
 │   │   ├── tour_list_page.dart
-│   │   ├── chat_screen.dart
-│   │   ├── login.dart
-│   │   └── tour_detail_item.dart
+│   │   
+│   ├── chat_screen.dart
+│   │── login.dart
+│   │── tour_detail_item.dart
+│   │
 │   └── routing/
 │       ├── bottom_navigation_routing.dart
 │       ├── chat_routing.dart

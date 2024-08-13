@@ -100,6 +100,7 @@ This project uses the following dependencies:
 
 To get started with the project:
 
-1. Clone the repository to your local machine.
+1. Clone [Flutter Routing Repository](https://github.com/sepehrTabeian/Flutter-Routing)
+ to your local machine.
 2. Run `flutter pub get` to install dependencies.
 3. Launch the app using `flutter run`.
